@@ -1,0 +1,6 @@
+delimeter_flag: ,
+remove_flag: 3
+csv_file:
+  class: File
+  path: dataset.csv
+outputs: []

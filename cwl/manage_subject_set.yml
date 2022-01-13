@@ -1,0 +1,7 @@
+script: manage_subject_set,
+user: <your_zooniverse_user>,
+password: <your_zooniverse_password>,
+endpoint: <your_zooniverse_endpoint>,
+threshold: 85
+
+outputs: []

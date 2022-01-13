@@ -1,0 +1,9 @@
+script: export_ec_observations,
+user: <your_api_user>,
+password: <your_api_password>,
+endpoint: https://api.actionproject.eu,
+project: <your_project>,
+source: Epicollect5,
+entries: <number_of_observations>
+
+outputs: []

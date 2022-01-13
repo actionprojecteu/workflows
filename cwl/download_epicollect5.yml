@@ -1,0 +1,6 @@
+script: export_ec_observations,
+user: <your_epicollect5_user>,
+password: <your_epicollect5_password>,
+endpoint: <your_epicollect5_endpoint>
+
+outputs: []

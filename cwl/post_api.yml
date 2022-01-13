@@ -1,0 +1,7 @@
+script: load_ec5_observations,
+user: <your_api_user>,
+password: <your_api_password>,
+project: <your_project>
+endpoint: http://api.actionproject.eu
+
+outputs: []
